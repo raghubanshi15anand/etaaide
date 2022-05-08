@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/etaaide/static/css/main.d7c84051.chunk.css",
+    "main.js": "/etaaide/static/js/main.a8eaab40.chunk.js",
+    "main.js.map": "/etaaide/static/js/main.a8eaab40.chunk.js.map",
+    "runtime-main.js": "/etaaide/static/js/runtime-main.08cc36ac.js",
+    "runtime-main.js.map": "/etaaide/static/js/runtime-main.08cc36ac.js.map",
+    "static/css/2.66f9e08a.chunk.css": "/etaaide/static/css/2.66f9e08a.chunk.css",
+    "static/js/2.fb5ec2b5.chunk.js": "/etaaide/static/js/2.fb5ec2b5.chunk.js",
+    "static/js/2.fb5ec2b5.chunk.js.map": "/etaaide/static/js/2.fb5ec2b5.chunk.js.map",
+    "index.html": "/etaaide/index.html",
+    "precache-manifest.926b6d2ab6479b3777b74b395d9a21e6.js": "/etaaide/precache-manifest.926b6d2ab6479b3777b74b395d9a21e6.js",
+    "service-worker.js": "/etaaide/service-worker.js",
+    "static/css/2.66f9e08a.chunk.css.map": "/etaaide/static/css/2.66f9e08a.chunk.css.map",
+    "static/css/main.d7c84051.chunk.css.map": "/etaaide/static/css/main.d7c84051.chunk.css.map",
+    "static/js/2.fb5ec2b5.chunk.js.LICENSE.txt": "/etaaide/static/js/2.fb5ec2b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08cc36ac.js",
+    "static/css/2.66f9e08a.chunk.css",
+    "static/js/2.fb5ec2b5.chunk.js",
+    "static/css/main.d7c84051.chunk.css",
+    "static/js/main.a8eaab40.chunk.js"
+  ]
+}
